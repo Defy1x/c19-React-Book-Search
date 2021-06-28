@@ -90,8 +90,6 @@ Having an active and healthy commit history on GitHub is important for your futu
     }
     ```
 
-
-
 #Credits
 Thank you to everyone in the Columbia Engineering Bootcamp.
 
