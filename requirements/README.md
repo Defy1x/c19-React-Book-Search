@@ -1,22 +1,5 @@
-# Table of Contents:
-* [Project Description](#Project)
-* [Deployed Links](#Links)
-* [Usage](#Usage)
-* [Credits](#Credits)
-* [License](#License)
+# Google Books Search
 
-# Project:
-## Title:
-# c19-React-Book-Search
-
-## Description:
-A react application that allows the user to search using Google API.
-
-As for our homework for this assignment we (Columbia Engineering Bootcamp students) were given the following user story below and acceptance criteria:
-
-## Requirements
-
-```
 ### Overview
 
 In this activity, you'll create a new React-based Google Books Search app. This assignment requires you to create React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. You'll also use Node, Express and MongoDB so that users can save books to review or purchase later.
@@ -150,40 +133,3 @@ Please see [Heroku’s Account Verification Information](https://devcenter.herok
 If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
 
 **Good Luck!**
-
-```
-
-
-## Deployed Link
-Coming soon
-
-
-#Usage
-## Final screenshot
-![This is the final deployed screenshot of the project](requirements/screenshot-01.png)
-
-#Credits
-Thank you to everyone in the Columbia Engineering Bootcamp.
-
-#License
-MIT License
-
-Copyright (c) 2021 Casandra McDonald
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
