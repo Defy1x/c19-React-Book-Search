@@ -16,13 +16,14 @@ As for our homework for this assignment we (Columbia Engineering Bootcamp studen
 
 
 ## Deployed Link
-Coming soon
+https://fathomless-bayou-67993.herokuapp.com/
 
 
 #Usage
 ## Final screenshot
 ![This is the final deployed screenshot of the project](requirements/screenshot-01.png)
 ![This is the final deployed screenshot of the project](requirements/screenshot-02.png)
+![This is the final deployed screenshot of the project](requirements/screenshot-03.png)
 
 ## Requirements
 
