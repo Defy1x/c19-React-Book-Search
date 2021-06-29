@@ -22,6 +22,7 @@ Coming soon
 #Usage
 ## Final screenshot
 ![This is the final deployed screenshot of the project](requirements/screenshot-01.png)
+![This is the final deployed screenshot of the project](requirements/screenshot-02.png)
 
 ## Requirements
 
