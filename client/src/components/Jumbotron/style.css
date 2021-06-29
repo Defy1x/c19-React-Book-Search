@@ -8,6 +8,7 @@
 
 .myText {
     color: white;
+    font-family: sans-serif;
     font-weight: bold;
     position: relative;
     transform: translateY(100px)
