@@ -22,6 +22,8 @@ https://fathomless-bayou-67993.herokuapp.com/
 NOTE: I do NOT want to add this to my portfolio. My portfolio is polished work with clients, not school projects. thanks.
 If you do not give me an A+ on this i will ask for regrade with the TAs as i have expressed this to Jonathan already.
 
+https://defy1x.github.io/c18-react-portfolio/
+
 #Usage
 ## Final screenshot
 ![This is the final deployed screenshot of the project](requirements/screenshot-01.png)
