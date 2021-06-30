@@ -19,7 +19,7 @@ As for our homework for this assignment we (Columbia Engineering Bootcamp studen
 ## Deployed Link
 https://fathomless-bayou-67993.herokuapp.com/
 
-NOTE: I do NOT want to add this to my portfolio. My portfolio is polished work with clients, not school projects. thanks.
+NOTE: I do NOT want to add this to my portfolio. My portfolio is polished work with clients, and capstones. thanks.
 If you do not give me an A+ on this i will ask for regrade with the TAs as i have expressed this to Jonathan already.
 
 https://defy1x.github.io/c18-react-portfolio/
