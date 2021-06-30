@@ -15,9 +15,11 @@ A react application that allows the user to search using Google API.
 As for our homework for this assignment we (Columbia Engineering Bootcamp students) were given the following user story below and acceptance criteria:
 
 
+
 ## Deployed Link
 https://fathomless-bayou-67993.herokuapp.com/
 
+NOTE: I do NOT want to add this to my portfolio. My portfolio is polished work with clients, not school projects. thanks.
 
 #Usage
 ## Final screenshot
